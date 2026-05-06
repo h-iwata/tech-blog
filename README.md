@@ -16,8 +16,8 @@
   - `[raw](./llm-wiki/raw)`: スクレイピングしたWebページや公式ドキュメントなどの不変の一次情報。
   - `[wiki](./llm-wiki/wiki)`: AIが抽出・構造化した知識（`concepts`, `entities`, `sources`, `synthesis`）。
 - **`docs/`**: AIエージェントおよびユーザー向けのガイドラインとプロンプト。
-  - `[guidelines](./docs/guidelines)`: ブログ執筆のルールや品質基準。
-  - `[prompts](./docs/prompts)`: Gemini Deep Searchなどのプロンプト。
+  - `[blog-guidelines.md](./docs/guidelines/blog-guidelines.md)`: ブログ執筆のルールや品質基準。
+  - `[gemini_deep_search_prompt.md](./docs/prompts/gemini_deep_search_prompt.md)`: Gemini Deep Searchなどのプロンプト。
   - `[architecture](./docs/architecture)`: 構成の詳細説明。
 
 ## AIエージェントへの指示
